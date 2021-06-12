@@ -12,3 +12,6 @@ IMPORT DATABASE:
 
 SETUP APLIKASI
 -Run file setup.exe dan tunggu hingga proses instalasi selesai
+
+## [Run Aplikasi di VS19]
+klik kanan di project, lalu manage NuGet Packages. search Guna.UI2.Winform, lalu instal. silakan run project.
