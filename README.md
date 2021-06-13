@@ -14,4 +14,8 @@ SETUP APLIKASI
 -Run file setup.exe dan tunggu hingga proses instalasi selesai
 
 ## [Run Aplikasi di VS19]
-klik kanan di project, lalu manage NuGet Packages. search Guna.UI2.Winform, lalu instal. silakan run project.
+1. klik kanan di project Q-Bisnis
+2. lalu manage NuGet Packages
+3. Search Guna.UI2.Winform, pilih yang option teratas lalu lakukan instalasi
+4. jika instalasi sudah selesai, klik kanan pada project Q-Bisnis lalu build
+5. ketika proses build sudah selesai, maka anda dapat menjalankan program tersebut melalui Visual Studio 2019
